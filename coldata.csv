@@ -1,0 +1,13 @@
+id,sample,stimulation
+Ca_0,Ca,O
+Ca_V,Ca,V
+Ca_V_plus_F,Ca,F
+Fe_0,Fe,O
+Fe_V,Fe,V
+Fe_V_plus_F,Fe,F
+G_0,G,O
+G_V,G,V
+G_V_plus_F,G,F
+S_0,S,O
+S_V,S,V
+S_V_plus_F,S,F
